@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using IdentityServer4;
 using IdentityServer4.Models;
 
-namespace mysite.auth
+namespace MySite.Auth
 {
     public class Startup
     {
